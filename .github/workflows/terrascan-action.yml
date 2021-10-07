@@ -21,4 +21,4 @@ jobs:
         #policy_path:
         #skip_rules:
         config_path: config.yml
-        github_token: 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
+        github_token:
