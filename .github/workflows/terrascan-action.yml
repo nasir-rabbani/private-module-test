@@ -21,4 +21,4 @@ jobs:
         #policy_path:
         #skip_rules:
         config_path: config.yml
-        github_token:
+        github_token: ${{ secrets.GIT_PAT }}
